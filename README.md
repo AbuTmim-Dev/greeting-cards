@@ -7,7 +7,7 @@
 - مكان الاسم وحجمه ولونه على كل بطاقة.
 
 🔗 مثال على المنصة:  
-[https://greeting-cards.github.io/greeting-cards/index.html](https://greeting-cards.github.io/greeting-cards/index.html)
+[https://abutmim-dev.github.io/greeting-cards/index.html](https://abutmim-dev.github.io/greeting-cards/index.html)
 
 ---
 
@@ -25,7 +25,7 @@
 ---
 
 ### 1. أخذ نسخة (Fork) من المشروع
-- افتح المشروع: [https://github.com/greeting-cards/greeting-cards](https://github.com/greeting-cards/greeting-cards)
+- افتح المشروع: [https://github.com/abutmim-dev/greeting-cards](https://github.com/abutmim-dev/greeting-cards)
 - اضغط على زر `Fork` في أعلى الصفحة.
 - اختر حسابك ليتم نسخ المشروع إلى مستودعك الشخصي.
 
